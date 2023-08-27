@@ -1,0 +1,1 @@
+https://medium.com/@shafiquezubair7/call-the-function-of-an-object-inside-another-function-of-that-object-in-js-3e43878b85bf
